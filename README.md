@@ -31,3 +31,8 @@ They are for this Packet Tracer lab only and are not used anywhere real.
 
 ## My role
 (write 1-2 lines: what you did yourself)
+## What's inside
+Everything is packed in `Project-main.zip`. Download it to get:
+- `Project.pkt`: the Packet Tracer file
+- `configuration.pdf`: device configurations
+- `Report.docx`: full report (planning, cabling, budget, schedule)
